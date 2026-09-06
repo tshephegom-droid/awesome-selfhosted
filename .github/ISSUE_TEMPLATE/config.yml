@@ -1,4 +1,4 @@
-blank_issues_enabled: false
+STATE_DIR=${STATE_DIR:-$APP_DIR/metadata}
 contact_links:
   - name: "Awesome Selfhosted Data"
     url: "https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues"
